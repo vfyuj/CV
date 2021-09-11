@@ -1,0 +1,57 @@
+body {
+	margin: 0%;
+    background: linear-gradient(to right bottom, #2a6aaed6, #b1daeb);
+    padding: 20px;
+
+}
+
+.profile {
+    margin: 0px auto;
+    padding: 30px;
+    background-color: whitesmoke;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 5pt;
+    line-height: 1.5;
+}
+
+.profile_photo {
+    display: block;
+    width: 200px;
+    margin: 0px auto;
+    border-radius: 4%;
+    box-shadow: 0 5px 10px #062b5e82;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    font-style: italic;
+    margin: 0px;
+}
+
+.net-list {
+    padding: 0;
+    list-style-position: inside;
+    list-style: ;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: #062b5e;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 7px;
+}
+
+p {
+    margin: 0px;
+}
